@@ -1,4 +1,5 @@
 ## Added weed strains
+## Support Discord | https://discord.gg/2DrnWE3CcQ
 **Delete your old weed from qb-core/shared/items.lua**
 
 **qb-core/shared/items.lua**
