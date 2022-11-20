@@ -41,7 +41,7 @@
 	['weed_nutrition'] 				 = {['name'] = 'weed_nutrition', 			    ['label'] = 'Plant Fertilizer', 		['weight'] = 2000, 		['type'] = 'item', 		['image'] = 'weed_nutrition.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Plant nutrition'},
     ```
 
-    **qb-weed/config**
+## Qb-weed/config
     ```
     QBWeed = {}
 QBWeed.HarvestTime = 40 * 1000
